@@ -1,0 +1,36 @@
+INFO:root:recevice file: /home/nguyen.hong.phucb/Desktop/ocr/ocr/data/BEasas.pdf, start time: 2021-01-27 16:14:03.247084
+INFO:root:start validate input
+ERROR:root:file not exists or not readable
+ERROR:root:
+INFO:root:end time: 2021-01-27 16:14:03.247437
+INFO:root:start time: 2021-01-27 16:16:13.517030
+INFO:root:recevice file: /home/nguyen.hong.phucb/Desktop/ocr/ocr/data/BEasas.pdf
+INFO:root:start validate input
+ERROR:root:file not exists or not readable
+ERROR:root:
+INFO:root:end time: 2021-01-27 16:16:13.517367
+INFO:root:start time: 2021-01-27 16:26:49.600554
+INFO:root:recevice file: /home/nguyen.hong.phucb/Desktop/ocr/ocr/data/BEasas.pdf
+INFO:root:start validate input
+ERROR:root:file not exists or not readable
+ERROR:root:
+INFO:root:end time: 2021-01-27 16:26:49.600902
+INFO:root:start time: 2021-01-27 16:37:50.173567
+INFO:root:recevice file: /home/nguyen.hong.phucb/Desktop/ocr/ocr/data/BE.pdfasd
+INFO:root:start validate input
+ERROR:root:file not exists or not readable
+ERROR:root:
+INFO:root:end time: 2021-01-27 16:37:50.173928
+INFO:root:start time: 2021-01-27 16:38:29.257857
+INFO:root:recevice file: /home/nguyen.hong.phucb/Desktop/ocr/ocr/data/test1.pdf
+INFO:root:start validate input
+ERROR:root:file not exists or not readable
+ERROR:root:
+INFO:root:end time: 2021-01-27 16:38:29.258231
+INFO:root:start time: 2021-01-27 16:39:17.385722
+INFO:root:recevice file: /home/nguyen.hong.phucb/Desktop/ocr/ocr/data/test1.png
+INFO:root:start validate input
+INFO:root:end validate input
+INFO:root:start recognize text with tesseract
+ERROR:root:The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+INFO:root:end time: 2021-01-27 16:39:17.412168
